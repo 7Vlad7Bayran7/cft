@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vlad Bayran</string>
+    <string name="edittext_hint"><font size="13">Enter the first digits of a card number (BIN/IIN)</font></string>
+    <string name="button1"> Submit</string>
+    <string name="submit">Submit</string>
+    <string name="history">History</string>
+</resources>
